@@ -1,4 +1,4 @@
 # Tubes
-Tubes Alpro 2\n
-Anggota :
+Tubes Alpro 2
+# Anggota :
 Nazal Putra Pindha Dharmawara
